@@ -25,8 +25,10 @@ Feel free to check [issues page](https://github.com/curranConcepts/book-catalog-
 
 👤 **Austin Curran**
 
-- X: [@codingCurran](https://twitter.com/codingCurran)
-- Github: [@curranConcepts](https://github.com/curranConcepts)
+* Website: 	https://austincurran.com/
+* Twitter: [@codingCurran](https://twitter.com/codingCurran)
+* Github: [@curranConcepts](https://github.com/curranConcepts)
+* LinkedIn: [@codingcurran](https://linkedin.com/in/codingcurran)
 
 ## Show your support
 
