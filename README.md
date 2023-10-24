@@ -6,16 +6,10 @@
   </a>
 </p>
 
-[![Made with Go](https://img.shields.io/badge/-Made_with_Go-3178C6?style=for-the-badge&logo=go&logoColor=white)](https://www.golang.org/)
+
 
 
 > API to keep track of book collections. 
-
-## ✨ Demo
-
-
-
-## 🚀 Usage
 
 
 
